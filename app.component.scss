@@ -1,0 +1,47 @@
+li {
+  border-bottom: 1px solid red;
+  list-style: none;
+}
+
+.container {
+  width: 100%;
+}
+
+.chrrPfuj {
+  width: 700px;
+  margin-left: 150px;
+}
+
+
+
+.navbar navbar-light bg-light justify-content-between {
+  display: flex;
+  justify-content: center;
+  width: 350px;
+}
+
+.button {
+  background-color: lightcoral;
+}
+
+.button:hover {
+  background-color: lightblue;
+}
+
+a {
+  color: red;
+}
+span {
+  color: red;
+  font-size: 25px;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: none;
+
+}
+
+
+
+
